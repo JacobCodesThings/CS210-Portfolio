@@ -1,0 +1,24 @@
+# ninja log v5
+1	404	7330928481945530	CMakeFiles/untitled.dir/main.cpp.obj	7076c85c82bdb354
+6	406	7330928481955515	CMakeFiles/untitled.dir/Clock.cpp.obj	37f203cabee2ef4e
+406	521	7330928483096758	untitled.exe	f6c9583a6d55e5cb
+3	405	7330938971422055	CMakeFiles/untitled.dir/main.cpp.obj	3b7ca7dfebe504b9
+7	413	7330938971517046	CMakeFiles/untitled.dir/Clock.cpp.obj	2712ce2b16cae8bb
+413	482	7330938972167687	untitled.exe	f6c9583a6d55e5cb
+2	377	7330939551988779	CMakeFiles/untitled.dir/main.cpp.obj	3b7ca7dfebe504b9
+378	450	7330939552673697	untitled.exe	f6c9583a6d55e5cb
+3	348	7330939824412758	CMakeFiles/untitled.dir/main.cpp.obj	3b7ca7dfebe504b9
+348	424	7330939825159377	untitled.exe	f6c9583a6d55e5cb
+3	1335	7331140653064657	CMakeFiles/untitled.dir/main.cpp.obj	3b7ca7dfebe504b9
+1335	1573	7331140655421749	untitled.exe	f6c9583a6d55e5cb
+3	490	7331143135930388	CMakeFiles/untitled.dir/main.cpp.obj	3b7ca7dfebe504b9
+2	377	7331143225354607	CMakeFiles/untitled.dir/main.cpp.obj	3b7ca7dfebe504b9
+3	352	7331143383387207	CMakeFiles/untitled.dir/main.cpp.obj	3b7ca7dfebe504b9
+6	352	7331143383387207	CMakeFiles/untitled.dir/Clock.cpp.obj	2712ce2b16cae8bb
+352	546	7331143385302608	untitled.exe	f6c9583a6d55e5cb
+3	334	7331143701191560	CMakeFiles/untitled.dir/main.cpp.obj	3b7ca7dfebe504b9
+2	335	7331143973911184	CMakeFiles/untitled.dir/Clock.cpp.obj	2712ce2b16cae8bb
+335	413	7331143974664605	untitled.exe	f6c9583a6d55e5cb
+6	349	7331144238526409	CMakeFiles/untitled.dir/Clock.cpp.obj	2712ce2b16cae8bb
+2	350	7331144238526409	CMakeFiles/untitled.dir/main.cpp.obj	3b7ca7dfebe504b9
+350	421	7331144239227156	untitled.exe	f6c9583a6d55e5cb

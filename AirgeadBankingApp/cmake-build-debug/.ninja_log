@@ -1,0 +1,17 @@
+# ninja log v5
+0	313	7337890024081037	CMakeFiles/AirgeadBankingApp.dir/main.cpp.obj	549497ab3986f221
+5	355	7337890024504972	CMakeFiles/AirgeadBankingApp.dir/savings.cpp.obj	9b76b69b3ba0eb5b
+355	460	7337890025491616	AirgeadBankingApp.exe	e02c46f76017fbde
+2	299	7337950238337473	CMakeFiles/AirgeadBankingApp.dir/main.cpp.obj	549497ab3986f221
+6	338	7337950238726088	CMakeFiles/AirgeadBankingApp.dir/savings.cpp.obj	9b76b69b3ba0eb5b
+339	416	7337950239480048	AirgeadBankingApp.exe	e02c46f76017fbde
+24	1370	7338797603557699	CMakeFiles/AirgeadBankingApp.dir/savings.cpp.obj	9b76b69b3ba0eb5b
+1370	1590	7338797605718094	AirgeadBankingApp.exe	e02c46f76017fbde
+3	279	7338798039117138	CMakeFiles/AirgeadBankingApp.dir/main.cpp.obj	549497ab3986f221
+279	346	7338798039753675	AirgeadBankingApp.exe	e02c46f76017fbde
+2	295	7338798449910026	CMakeFiles/AirgeadBankingApp.dir/main.cpp.obj	549497ab3986f221
+296	382	7338798450773162	AirgeadBankingApp.exe	e02c46f76017fbde
+2	291	7338799428239148	CMakeFiles/AirgeadBankingApp.dir/main.cpp.obj	549497ab3986f221
+292	360	7338799428897904	AirgeadBankingApp.exe	e02c46f76017fbde
+3	337	7338810674799932	CMakeFiles/AirgeadBankingApp.dir/savings.cpp.obj	9b76b69b3ba0eb5b
+337	413	7338810675538245	AirgeadBankingApp.exe	e02c46f76017fbde
